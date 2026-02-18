@@ -1,6 +1,6 @@
 """
 Project: First Commit
-Author: Ashok Kawdikar
+Author: Saiprasad Kawdikar
 Description:
 This program marks the beginning of my coding journey.
 It demonstrates clean structure and basic Python execution.
