@@ -1,10 +1,13 @@
 """
 Project: First Commit
 Author: Saiprasad Kawdikar
+
 Description:
 This program marks the beginning of my coding journey.
-It demonstrates clean structure and basic Python execution.
+It demonstrates basic Python structure, functions,
+and program execution.
 """
+
 
 def introduction():
     print("First Commit")
