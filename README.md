@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saiprasad Kawdikar
 
-### 💻 Computer Engineering Student | AI & Software Development Enthusiast
+### 💻Computer Engineering Student | Aspiring Software Developer
 
 I’m a Computer Engineering student passionate about **software development, Artificial Intelligence, problem solving, and building real-world projects**.
 
