@@ -300,5 +300,5 @@ public:
 </p>
 
 <p align="center">
-  <i>Always learning. Always building.</i>
+  <i>“Learn. Build. Experiment. Improve.” 🚀</i>
 </p>
